@@ -58,3 +58,6 @@ In compliance with hackathon guidelines, the following AI tools and platforms we
 ```bash
 git clone [https://github.com/madhumitha9971/jalsaathi-precision-irrigation.git](https://github.com/madhumitha9971/jalsaathi-precision-irrigation.git)
 cd jalsaathi-precision-irrigation
+
+* **Website URL:** `[https://lifted-anointed-hawk.3000.dev.raccoonai.tech/]
+* **Topics/Tags:** `precision-agriculture`, `fao-56`, `fastapi`, `pwa`, `agritech`, `neural-storm-2026`, `raccoon-ai`
