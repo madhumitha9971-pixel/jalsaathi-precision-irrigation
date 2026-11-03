@@ -1,4 +1,4 @@
-# 💧 JalSaathi: Precision Irrigation & FAO-56 Water Advisory PWA
+7# 💧 JalSaathi: Precision Irrigation & FAO-56 Water Advisory PWA
 
 [![Neural Storm 2026](https://img.shields.io/badge/Event-Neural%20Storm%202026-green.svg)](https://unstop.com)
 [![Track](https://img.shields.io/badge/Track-Green%20Planet%20(GP--02)-blue.svg)](https://unstop.com)
@@ -42,6 +42,13 @@ Traditional agricultural irrigation methods in India often lead to severe water 
 * **Framework:** FastAPI (`main.py`)
 * **Data Science & ML:** NumPy, scikit-learn, XGBoost
 * **Hosting:** Hugging Face Spaces / Uvicorn Server
+
+---
+## 🤖 AI Tools & Platforms Used
+In compliance with hackathon guidelines, the following AI tools and platforms were utilized during the development and deployment of **JalSaathi**:
+* **Raccoon AI:** Utilized as the core development environment, containerized cloud execution engine, and live deployment platform (`3000.dev.raccoonai.tech`).
+* **Cursor & ChatGPT:** Used for structuring modular FastAPI endpoints, debugging FAO-56 hydrological formulas, and generating responsive React component states.
+* **v0 (v0.dev):** Used to rapidly prototype the earthy-premium mobile UI/UX layouts, "Living Field" visual cross-section, and micro-interactions.
 
 ---
 
